@@ -1,1 +1,3 @@
-# tdd-cleancode-with-java
+# TDD, 클린 코드 with Java 14기 미션 정리
+
+## [1주차 미션] 자동차 경주 - 단위테스트
