@@ -2,3 +2,15 @@
 	path = java-racingcar
 	url = git@github.com:jeongjaeeom/java-racingcar.git
 	branch = jeongjaeeom
+[submodule "java-lotto"]
+	path = java-lotto
+	url = git@github.com:jeongjaeeom/java-lotto.git
+	branch = jeongjaeeom
+[submodule "java-ladder"]
+	path = java-ladder
+	url = git@github.com:jeongjaeeom/java-ladder.git
+	branch = jeongjaeeom
+[submodule "java-bowling"]
+	path = java-bowling
+	url = git@github.com:jeongjaeeom/java-bowling.git
+	branch = jeongjaeeom
