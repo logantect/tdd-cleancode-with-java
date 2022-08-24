@@ -1,0 +1,4 @@
+[submodule "java-racingcar"]
+	path = java-racingcar
+	url = git@github.com:jeongjaeeom/java-racingcar.git
+	branch = jeongjaeeom
